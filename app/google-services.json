@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709992675152",
+    "project_id": "msteams-56b79",
+    "storage_bucket": "msteams-56b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709992675152:android:775c6c56dd830bf4f91e55",
+        "android_client_info": {
+          "package_name": "com.example.msteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709992675152-cmdc86n5eu9ae3ql9fcpj6hsm5ic16rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4r9vMuyyCgOF9RSoqf4vhtcJRPAI1pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709992675152-cmdc86n5eu9ae3ql9fcpj6hsm5ic16rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
